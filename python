@@ -6,3 +6,4 @@ c=a+b
 print(f"sum is{c}")
 print("namasakaram")
 print("hello")
+print("dj")
